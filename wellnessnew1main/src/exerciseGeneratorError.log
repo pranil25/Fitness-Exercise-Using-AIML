@@ -1,0 +1,61 @@
+[12-Oct-2022 16:49:14 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\dasd\wellness\exerciseGenerator.php on line 9
+[12-Oct-2022 16:49:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function getNumExercises() in C:\xampp\htdocs\dasd\wellness\exerciseGenerator.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\dasd\wellness\exerciseGenerator.php on line 11
+[20-Feb-2023 08:42:08 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 8
+[20-Feb-2023 08:42:08 Europe/Berlin] PHP Notice:  Undefined index: username in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 9
+[20-Feb-2023 08:42:12 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\server.php on line 1054
+[20-Feb-2023 08:42:12 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\server.php on line 1057
+[20-Feb-2023 08:42:12 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\server.php on line 1059
+[20-Feb-2023 08:42:12 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 15
+[20-Feb-2023 08:42:12 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 16
+[20-Feb-2023 08:43:56 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 8
+[20-Feb-2023 08:43:56 Europe/Berlin] PHP Notice:  Undefined index: username in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 9
+[20-Feb-2023 08:44:00 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\server.php on line 1054
+[20-Feb-2023 08:44:00 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\server.php on line 1057
+[20-Feb-2023 08:44:00 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\server.php on line 1059
+[20-Feb-2023 08:44:00 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 15
+[20-Feb-2023 08:44:00 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 16
+[20-Feb-2023 08:48:43 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 8
+[20-Feb-2023 08:48:43 Europe/Berlin] PHP Notice:  Undefined index: username in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 9
+[20-Feb-2023 08:48:47 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\server.php on line 1054
+[20-Feb-2023 08:48:47 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\server.php on line 1057
+[20-Feb-2023 08:48:47 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\server.php on line 1059
+[20-Feb-2023 08:48:47 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 15
+[20-Feb-2023 08:48:47 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 16
+[20-Feb-2023 08:49:38 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 8
+[20-Feb-2023 08:49:38 Europe/Berlin] PHP Notice:  Undefined index: username in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 9
+[20-Feb-2023 08:49:42 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\server.php on line 1054
+[20-Feb-2023 08:49:42 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\server.php on line 1057
+[20-Feb-2023 08:49:42 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\server.php on line 1059
+[20-Feb-2023 08:49:42 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 15
+[20-Feb-2023 08:49:42 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 16
+[20-Feb-2023 09:22:25 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 8
+[20-Feb-2023 09:22:25 Europe/Berlin] PHP Notice:  Undefined index: username in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 9
+[20-Feb-2023 09:22:29 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\server.php on line 1054
+[20-Feb-2023 09:22:29 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\server.php on line 1057
+[20-Feb-2023 09:22:29 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\server.php on line 1059
+[20-Feb-2023 09:22:29 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 15
+[20-Feb-2023 09:22:29 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 16
+[20-Feb-2023 09:22:56 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 8
+[20-Feb-2023 09:22:56 Europe/Berlin] PHP Notice:  Undefined index: username in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 9
+[20-Feb-2023 09:23:00 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\server.php on line 1054
+[20-Feb-2023 09:23:00 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\server.php on line 1057
+[20-Feb-2023 09:23:00 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\server.php on line 1059
+[20-Feb-2023 09:23:00 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 15
+[20-Feb-2023 09:23:00 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\exerciseGenerator.php on line 16
+[09-Apr-2023 11:00:32 Europe/Berlin] PHP Notice:  Undefined index: username in C:\xampp\htdocs\wellnessnew\exerciseGenerator.php on line 9
+[14-Apr-2023 10:03:27 Europe/Berlin] PHP Notice:  Undefined index: username in C:\xampp\htdocs\wellnessnew\exerciseGenerator.php on line 9

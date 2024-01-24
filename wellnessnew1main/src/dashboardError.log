@@ -1,0 +1,57 @@
+[20-Feb-2023 07:02:30 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 46
+[20-Feb-2023 07:02:30 Europe/Berlin] PHP Notice:  Undefined index: username in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 72
+[20-Feb-2023 07:02:30 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 74
+[20-Feb-2023 07:02:30 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 76
+[20-Feb-2023 07:02:30 Europe/Berlin] PHP Notice:  Undefined index: username in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 109
+[20-Feb-2023 07:02:30 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 111
+[20-Feb-2023 07:02:30 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 113
+[20-Feb-2023 07:02:34 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\server.php on line 1054
+[20-Feb-2023 07:02:34 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\server.php on line 1057
+[20-Feb-2023 07:02:34 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\server.php on line 1059
+[20-Feb-2023 07:02:34 Europe/Berlin] PHP Notice:  Undefined index: username in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 224
+[20-Feb-2023 07:02:34 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 226
+[20-Feb-2023 07:02:34 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 232
+[20-Feb-2023 07:02:44 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 46
+[20-Feb-2023 07:02:44 Europe/Berlin] PHP Notice:  Undefined index: username in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 72
+[20-Feb-2023 07:02:44 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 74
+[20-Feb-2023 07:02:44 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 76
+[20-Feb-2023 07:02:44 Europe/Berlin] PHP Notice:  Undefined index: username in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 109
+[20-Feb-2023 07:02:44 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 111
+[20-Feb-2023 07:02:44 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 113
+[20-Feb-2023 07:02:49 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\server.php on line 1054
+[20-Feb-2023 07:02:49 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\server.php on line 1057
+[20-Feb-2023 07:02:49 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\server.php on line 1059
+[20-Feb-2023 08:21:55 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 46
+[20-Feb-2023 08:21:55 Europe/Berlin] PHP Notice:  Undefined index: username in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 72
+[20-Feb-2023 08:21:55 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 74
+[20-Feb-2023 08:21:55 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 76
+[20-Feb-2023 08:21:55 Europe/Berlin] PHP Notice:  Undefined index: username in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 109
+[20-Feb-2023 08:21:55 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 111
+[20-Feb-2023 08:21:55 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 113
+[20-Feb-2023 08:21:59 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\server.php on line 1054
+[20-Feb-2023 08:21:59 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\server.php on line 1057
+[20-Feb-2023 08:21:59 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\server.php on line 1059
+[20-Feb-2023 08:21:59 Europe/Berlin] PHP Notice:  Undefined index: username in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 224
+[20-Feb-2023 08:21:59 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 226
+[20-Feb-2023 08:21:59 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 232
+[20-Feb-2023 08:26:14 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 46
+[20-Feb-2023 08:26:14 Europe/Berlin] PHP Notice:  Undefined index: username in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 72
+[20-Feb-2023 08:26:14 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 74
+[20-Feb-2023 08:26:14 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 76
+[20-Feb-2023 08:26:14 Europe/Berlin] PHP Notice:  Undefined index: username in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 109
+[20-Feb-2023 08:26:14 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 111
+[20-Feb-2023 08:26:14 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 113
+[20-Feb-2023 08:26:18 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\server.php on line 1054
+[20-Feb-2023 08:26:18 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\server.php on line 1057
+[20-Feb-2023 08:26:18 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\server.php on line 1059
+[20-Feb-2023 08:26:18 Europe/Berlin] PHP Notice:  Undefined index: username in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 224
+[20-Feb-2023 08:26:18 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 226
+[20-Feb-2023 08:26:18 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\wellness\afterUserLogIn.php on line 232

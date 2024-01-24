@@ -1,0 +1,25 @@
+[20-Feb-2023 09:40:19 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\server.php on line 15
+[20-Feb-2023 09:40:23 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\Admin\adminMonthlyChallengeControl.php on line 198
+[20-Feb-2023 09:40:23 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\Admin\adminMonthlyChallengeControl.php on line 201
+[20-Feb-2023 09:40:45 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\server.php on line 15
+[20-Feb-2023 09:40:49 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\Admin\adminMonthlyChallengeControl.php on line 198
+[20-Feb-2023 09:40:49 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\Admin\adminMonthlyChallengeControl.php on line 201
+[20-Feb-2023 09:41:02 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\server.php on line 15
+[20-Feb-2023 09:41:07 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\Admin\adminMonthlyChallengeControl.php on line 198
+[20-Feb-2023 09:41:07 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\Admin\adminMonthlyChallengeControl.php on line 201
+[20-Feb-2023 09:41:34 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\server.php on line 15
+[20-Feb-2023 09:41:38 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\Admin\adminArticleControl.php on line 163
+[20-Feb-2023 09:41:38 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\Admin\adminArticleControl.php on line 166
+[20-Feb-2023 09:43:16 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\server.php on line 15
+[20-Feb-2023 09:43:20 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wellness\Admin\adminArticleControl.php on line 168
+[20-Feb-2023 09:43:20 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\wellness\Admin\adminArticleControl.php on line 171
